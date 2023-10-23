@@ -10,6 +10,10 @@
 - POST /update - atualiza tarefa no banco
 - POST /delete - deleta tarefa no banco
 
+*** Para "POSTs" id devem ser passados no "body"
+
+<hr />
+
 ### front-end deployed on netlify.com: https://encr.pw/0zfhD
 
 ## Tecnologias utilizadas
